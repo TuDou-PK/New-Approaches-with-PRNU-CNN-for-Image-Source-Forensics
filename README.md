@@ -8,7 +8,6 @@ Project for courses [Human robot interaction](https://sites.google.com/a/dis.uni
 Co-author:
 - [PK](https://github.com/TuDou-PK)
 - [SCC](https://github.com/skant626)
-- [DJN](https://github.com/Ding-Jianan)
 
 [Here is report!](https://drive.google.com/file/d/1uim4LemQ6g-ERWebdWBkJu9HuTTL09Pw/view?usp=share_link)
 
@@ -44,21 +43,6 @@ Figure 3. Structural details of the sample CNN classification model.
 
 We use the VISION dataset for experiments. 
 
-\begin{table*}[]
-\caption{Result Comparison}
-\label{tab:freq}
-\begin{tabular}{cccccl}
-\toprule
-Model                                             & Dataset & Target & Labels & Level & Accuracy \\
-\midrule
-DnCNN-based model(Based on residual noise)        & VISION  & Camera & 10     & Patch & 92.83\%  \\
-Our Classification Model(Based on residual noise) & VISION  & Camera & 10     & Patch & \textbf{92.41\%}  \\
-Shallow CNN\cite{marra2018vulnerability}                                      & VISION  & Camera & 35     & Patch & 80.77\%  \\
-DenseNet-40\cite{marra2018vulnerability}                                       & VISION  & Camera & 35     & Patch & 87.96\% \\
-Roberto, C et al\cite{caldelli2018prnu}& VISION & Social Network & 3& Patch & 79.48\% \\
-Roberto, C et al\cite{caldelli2018prnu}& VISION & Social Network & 3& Image & 89.83\% \\
-Bondi, L et al\cite{bondi2016first} & Dresden & Camera & 18 & Patch & 72.90\% \\
-\bottomrule
-\end{tabular}
-\end{table*}
+![image](https://user-images.githubusercontent.com/24941293/222917398-5980561d-81f6-4fcb-9983-a97d3064342c.png)
+
 
