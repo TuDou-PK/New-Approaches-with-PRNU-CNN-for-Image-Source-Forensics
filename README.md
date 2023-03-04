@@ -1,7 +1,7 @@
 # New-Approaches-with-PRNU-CNN-for-Image-Source-Forensics
 We built a pipeline to extract the PRNU noise from the residual noise of a single image with a Resnet-based CNN architecture
 
-Project for courses [Elective in Artificial Intelligence]([https://sites.google.com/a/dis.uniroma1.it/human-robot-interaction/](https://cnapoli.diag.uniroma1.it/teaching/courses/eai-msc)), DIAG, Sapienza University of Roma
+Project for courses [Elective in Artificial Intelligence](https://cnapoli.diag.uniroma1.it/teaching/courses/eai-msc), DIAG, Sapienza University of Roma
 
 ![sapienza-big](https://user-images.githubusercontent.com/24941293/152373391-ac062aac-750a-45cd-bf40-9851cf2911f1.png)
 
