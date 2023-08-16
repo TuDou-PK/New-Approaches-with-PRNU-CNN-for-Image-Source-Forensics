@@ -25,6 +25,11 @@ Co-author:
 
 Figure 1. The pipeline we proposed for image source forensics. I is the original image from dataset, F function is denoise filter, W presents the residual noise. The final result is K classes, where K represents the number of classes.
 
+About how mDnCNN generate PRNU image:
+
+![mDnCNN (1)](https://github.com/TuDou-PK/New-Approaches-with-PRNU-CNN-for-Image-Source-Forensics/assets/24941293/cc65f868-3a90-4554-af9c-8062e6fb613d)
+
+
 The details of  model Resnet-based CNN for getting PRNU as follows.
 
 ![csi_pipeline](https://user-images.githubusercontent.com/24941293/222908637-b69d2024-2406-4095-bef7-de0dd3e90a60.png)
